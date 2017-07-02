@@ -1,0 +1,4 @@
+exports.spotifyKeys = {
+    id: '',
+    secret: ''
+};
